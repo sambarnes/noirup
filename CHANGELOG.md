@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/noir-lang/noirup/compare/v0.1.2...v0.1.3) (2023-05-22)
+
+
+### Bug Fixes
+
+* Checkout the project at release tag to find files to upload ([82f68ff](https://github.com/noir-lang/noirup/commit/82f68ffd1f0bcf1009db917df25482bf7e8b2650))
+* **ci:** Checkout the project at release tag to find files to upload ([#29](https://github.com/noir-lang/noirup/issues/29)) ([82f68ff](https://github.com/noir-lang/noirup/commit/82f68ffd1f0bcf1009db917df25482bf7e8b2650))
+
 ## [0.1.2](https://github.com/noir-lang/noirup/compare/v0.1.1...v0.1.2) (2023-04-26)
 
 
